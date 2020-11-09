@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Autores</string>
+
+    <string name="instruccion">Ingrese el nombre del libro para connocer su autor.</string>
+    <string name="btn_text">Buscar libro</string>
+    <string name="inputhint">Titulo del libro</string>
+
+</resources>
